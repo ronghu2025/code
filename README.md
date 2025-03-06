@@ -1,4 +1,4 @@
-# uploaded by Rong Hu (Ph.D student in College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China)
+# Uploaded by Rong Hu (Ph.D student in College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, China)
 # E-mail: ronghu.hzau@gamil.com
 # ALL files were served for analysing carotenogenic genes in insects.
 
